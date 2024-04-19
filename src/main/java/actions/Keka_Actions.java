@@ -75,10 +75,12 @@ public class Keka_Actions {
         GlobalWait.wait.until(ExpectedConditions.visibilityOf(keka_elements.closebtn)).click();
     }
 
-    public void sampleMethod(){
-        System.out.println("Test Method");
+    public void sampleMethod1(){
+        System.out.println("Test Method 1");
     }
-
+    public void sampleMethod2(){
+        System.out.println("Test Method 2");
+    }
 
 }
 
