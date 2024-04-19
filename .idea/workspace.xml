@@ -10,8 +10,7 @@
   <component name="ChangeListManager">
     <list default="true" id="52b2c7ec-425a-415e-8748-120d503f822f" name="Changes" comment="Updated in Keka_Steps.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/steps/Driver_Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/Driver_Steps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/steps/Keka_Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/Keka_Steps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/actions/Keka_Actions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actions/Keka_Actions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +24,14 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="61fbcbde-255f-48ff-b764-890a069b2ef9" />
+        <option name="url" value="https://github.com/NawzShareef/CucumberFramework.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -132,6 +139,17 @@
       <option name="PACKAGE_NAME" value="TestRunner" />
       <option name="MAIN_CLASS_NAME" value="TestRunner.TestRunner" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
