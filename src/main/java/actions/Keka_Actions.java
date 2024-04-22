@@ -81,9 +81,7 @@ public class Keka_Actions {
     public void sampleMethod2(){
         System.out.println("Test Method 2");
     }
-    public void sampleMethod3(){
-        System.out.println("Test Method 3");
-    }
+
     public void sampleMethod4(){
         System.out.println("Test Method 4");
     }

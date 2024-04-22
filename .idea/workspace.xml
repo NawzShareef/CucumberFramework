@@ -9,6 +9,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52b2c7ec-425a-415e-8748-120d503f822f" name="Changes" comment="Updated in Keka_Steps.java">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_22_2024_8_50_AM_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_22_2024_8_50_AM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_22_2024_8_59_AM_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_22_2024_8_59_AM__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/actions/Keka_Actions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actions/Keka_Actions.java" afterDir="false" />
     </list>
@@ -20,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="SubBranch2" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -166,7 +170,7 @@
         <item itemvalue="Cucumber Java.Scenario: Train Ticket Booking" />
         <item itemvalue="Cucumber Java.Scenario: Hotel Room Booking" />
         <item itemvalue="Cucumber Java.Scenario: Downloading employee's early arrivals list" />
-        <item itemvalue="Cucumber Java.Scenario: Downloading employee's early arrivals list" />
+        <item itemvalue="JUnit.TestRunner" />
       </list>
     </recent_temporary>
   </component>
