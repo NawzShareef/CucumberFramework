@@ -8,13 +8,12 @@
     <option name="rewriteBookmarkType" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52b2c7ec-425a-415e-8748-120d503f822f" name="Changes" comment="Updated in Keka_Steps.java">
+    <list default="true" id="52b2c7ec-425a-415e-8748-120d503f822f" name="Changes" comment="Commit v.3">
       <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_22_2024_8_50_AM_[Changes]/shelved.patch" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_22_2024_8_50_AM__Changes_.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_22_2024_8_59_AM_[Changes]/shelved.patch" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_22_2024_8_59_AM__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/actions/Keka_Actions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actions/Keka_Actions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713424407543</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit v.3">
+      <created>1713756883810</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713756883811</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,6 +232,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated in Driver_Steps.java" />
     <MESSAGE value="Updated in Keka_Steps.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated in Keka_Steps.java" />
+    <MESSAGE value="Commit v.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit v.3" />
   </component>
 </project>
